@@ -10,9 +10,9 @@
   <img align="center" alt="kesh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kesh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kesh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg">
-  <img align="center" alt="kesh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
-  <img align="center" alt="kesh-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/dart-original.svg">
-  <img align="center" alt="kesh-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/flutter-original.svg">
+  <img align="center" alt="kesh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="kesh-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="kesh-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
  
   
